@@ -1,1 +1,43 @@
-Web Development Course
+CONTENT
+
+- HTML
+  - Introduction to HTML
+    - What is HTML
+    - Heading Elements
+    - Paragraph Elements
+    - Self Closing Tags
+  - Intermediate HTML
+    - List Element
+    - Nesting and Indetation
+    - Anchor Elements
+    - Image Elements
+  - Advanced HTML
+    - Computer file paths
+    - Webpages
+    - Boilerplate
+- CSS
+  - Introduction to CSS
+    - Why do we need CSS?
+    - How to add CSS?
+    - CSS Selectors
+  - CSS Properties
+    - CSS Colours
+    - Font properties
+    - Inspecting CSS
+    - CSS Box Model: Margin, Padding, and Border
+  - Intermediate CSS
+    - Combining CSS Selectors
+    - CSS Positioning
+  - Advanced CSS
+    - CSS Display
+    - CSS Float
+    - Media Queries
+- Flexbox
+  - Display: Flex
+  - Flex Direction
+  - Flex Layout
+  - Flex Sizing
+- Grid
+  - Display: Grid
+  - Grid Sizing
+  - Grid Placement
