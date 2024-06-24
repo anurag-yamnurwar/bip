@@ -41,3 +41,7 @@ CONTENT
   - Display: Grid
   - Grid Sizing
   - Grid Placement
+- Bootstrap 
+- What is Bootstrap?
+- Bootstrap layout
+- Bootstrap Compo
