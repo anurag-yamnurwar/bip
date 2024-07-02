@@ -41,7 +41,12 @@ CONTENT
   - Display: Grid
   - Grid Sizing
   - Grid Placement
-- Bootstrap 
-- What is Bootstrap?
-- Bootstrap layout
-- Bootstrap Compo
+- Bootstrap
+  - What is Bootstrap?
+  - Bootstrap layout
+  - Bootstrap Components
+- JavaScript
+  - Introduction
+  - JavaScript Alerts - Adding behaviour to websites
+  - Data types
+  - Variables
